@@ -1,0 +1,2 @@
+# Coursework_FileEncryptTransmit_qt
+运用到了Openssl，请根据情况自行修改qmake中的设置路径
